@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: sklearn-fit-transform-vs-transform
+expected_outcome: |
+  A short answer: a scikit-learn sample with real output showing fit_transform on training data and transform on test data, explaining that fit learns mean and std from the training data and transform reuses them, so fit_transform goes on train and transform on test.

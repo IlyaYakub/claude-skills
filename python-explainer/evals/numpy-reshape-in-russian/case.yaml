@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: numpy-reshape-in-russian
+expected_outcome: |
+  A short answer in Russian: one sentence on what reshape does, a small NumPy sample with its real output, a brief explanation of why, including that -1 means NumPy infers that dimension from the total size.

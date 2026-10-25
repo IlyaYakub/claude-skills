@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: python-mutable-default-arg
+expected_outcome: |
+  A short answer explaining that the default list is created once when the function is defined and shared between calls, showing the real output and the usual fix with lst=None.

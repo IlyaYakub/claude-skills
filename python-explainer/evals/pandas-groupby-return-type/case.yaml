@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: pandas-groupby-return-type
+expected_outcome: |
+  A short answer: a pandas sample with real output, stating that the result is a Series indexed by city with summed sales per city, and why the group keys become the index.
