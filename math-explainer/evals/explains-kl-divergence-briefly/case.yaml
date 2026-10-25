@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: explains-kl-divergence-briefly
+expected_outcome: |
+  A short plain-English explanation of KL divergence (a few sentences), intuition before any formula, every symbol in a formula explained, no worked numeric example, ending with an In ML line (e.g. VAE loss, distillation, cross-entropy).

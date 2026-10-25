@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: answers-in-question-language
+expected_outcome: |
+  The answer to a Russian question is in Russian, including the visual's labels. It explains the gradient as the direction of steepest increase in a few plain sentences, shows the function as a rotatable 3D surface with the gradient on it, and ends with a "В ML:" line about gradient descent.

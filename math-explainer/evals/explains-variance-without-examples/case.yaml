@@ -1,0 +1,4 @@
+schema_version: "1.1"
+name: explains-variance-without-examples
+expected_outcome: |
+  A brief plain-language explanation of variance and standard deviation and how they relate (std is the square root, in the original units), with no numeric worked example, ending with an In ML line.
